@@ -8,6 +8,8 @@ https://github.com/darkr4y/geacon
 
 # 说明
 简单适配了一个profile配置文件,可直接拿来修改使用.
+
+详细文章:https://www.nctry.com/2595.html
 # 流量截图
 GET请求
 ![get](https://github.com/TRYblog/edit-gencon/blob/main/get.png "get")
